@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"moduleResolution": "node",
+		"target": "es6",
+		"module": "commonjs",
+		"noImplicitReturns": true,
+		"jsx": "react",
+		"esModuleInterop": true
+	}
+}
